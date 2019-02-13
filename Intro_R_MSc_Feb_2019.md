@@ -43,7 +43,8 @@ Also in R-studio! \
 
 *Lunch breaks are between 12:30 and 13:00. on day 1-4 and from 12:00 to 12:30 on day 5*
 
-
+## Manuscript about the data used during the course
+https://www.ncbi.nlm.nih.gov/pubmed/24766815
 
 ## Practicals and presentations ###
 
