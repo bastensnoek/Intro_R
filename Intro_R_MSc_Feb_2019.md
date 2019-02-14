@@ -51,7 +51,7 @@ https://www.ncbi.nlm.nih.gov/pubmed/24766815
 **Day 1:** Data structures and Access I\
 Intro: \
 PDF:  \
-R-studio file Day1 exer1:  \
+R-studio file Day1 exer1: https://drive.google.com/open?id=1zV81WDAz9mrLe1vYwgL3Q7EYpzMtW7pa  \
 Answers: \
 R-studio file Day1 exer2:  \
 Answers: \
