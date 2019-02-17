@@ -23,7 +23,7 @@ available Friday at 12:30
 
 # R information
 
-**Cheatsheet R:**  \
+**Cheatsheet R:** https://drive.google.com/open?id=1RiclpL7NPjOwVcn66DxxaDP_U1z90vzi \
 
 **R documentation:** https://cran.r-project.org/ \
 Also in R-studio! \
@@ -52,11 +52,11 @@ https://www.ncbi.nlm.nih.gov/pubmed/24766815
 Intro: https://drive.google.com/open?id=1fabM8DnI25En4kYYVIXwu0eXwMA1_b5i \
 PDF Structures and Objects: https://drive.google.com/open?id=13Lu_dftHX3bePDd00qmlAVVeVld9O67r \
 PDF Access, Select and Ordering: https://drive.google.com/open?id=1xG1LqrMZisb49f280ABornmjQv5LurYA \
-R-studio file Day1 exer1: https://drive.google.com/open?id=1zV81WDAz9mrLe1vYwgL3Q7EYpzMtW7pa  \
+R-studio file Day1 exer1: https://drive.google.com/open?id=1zV81WDAz9mrLe1vYwgL3Q7EYpzMtW7pa \
 Answers: \
-R-studio file Day1 exer2:  \
+R-studio file Day1 exer2: https://drive.google.com/open?id=1r028MOwXIWx5Rp5vBahvKskT-XD10G69 \
 Answers: \
-R-studio file Day1 exer3:  \
+R-studio file Day1 exer3: https://drive.google.com/open?id=1BF-9ltLwngIRj-OsEDbGED6SKvEEF6y4 \
 Answers: \
 R-studio file Day1 slides: https://drive.google.com/open?id=1s0WX8LkZ90iPKltYKxJwDciyJoOu7G7G  
 
@@ -66,7 +66,11 @@ R-studio file Day2 exer1:  \
 Answers: \
 R-studio file Day2 exer2:  \
 Answers: \
-R-studio file Day2 slides: 
+R-studio file Day2 slides: \
+Simple IO file: \
+duplications.txt: \
+SGD-features file: \
+SGD-headers file: \
 
 **Day 3:** Plotting, Itteration, Functions\
 PDF:  \
@@ -74,7 +78,9 @@ R-studio file Day3 exer1:  \
 Answers: \
 R-studio file Day3 exer2:  \
 Answers: \
-R-studio file Day3 slides: 
+R-studio file Day3 slides: \
+M values file: \
+p values file: 
 
 **Day 4:** Loops and Statistics \
 PDF:  \
@@ -82,7 +88,8 @@ R-studio file Day4 exer1:  \
 Answers: \
 R-studio file Day4 exer2:  \
 Answers: \
-R-studio file Day4 slides: 
+R-studio file Day4 slides: \
+TF target r-object:
 
 **Day 5:** Recap
 Extra:  \
