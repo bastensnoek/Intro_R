@@ -49,15 +49,16 @@ https://www.ncbi.nlm.nih.gov/pubmed/24766815
 ## Practicals and presentations ###
 
 **Day 1:** Data structures and Access I\
-Intro: \
-PDF:  \
+Intro: https://drive.google.com/open?id=1fabM8DnI25En4kYYVIXwu0eXwMA1_b5i \
+PDF Structures and Objects: https://drive.google.com/open?id=13Lu_dftHX3bePDd00qmlAVVeVld9O67r \
+PDF Access, Select and Ordering: https://drive.google.com/open?id=1xG1LqrMZisb49f280ABornmjQv5LurYA \
 R-studio file Day1 exer1: https://drive.google.com/open?id=1zV81WDAz9mrLe1vYwgL3Q7EYpzMtW7pa  \
 Answers: \
 R-studio file Day1 exer2:  \
 Answers: \
 R-studio file Day1 exer3:  \
 Answers: \
-R-studio file Day1 slides:   
+R-studio file Day1 slides: https://drive.google.com/open?id=1s0WX8LkZ90iPKltYKxJwDciyJoOu7G7G  
 
 **Day 2:** Access II and I/O \
 PDF:  \
@@ -65,6 +66,7 @@ R-studio file Day2 exer1:  \
 Answers: \
 R-studio file Day2 exer2:  \
 Answers: \
+R-studio file Day2 slides: 
 
 **Day 3:** Plotting, Itteration, Functions\
 PDF:  \
@@ -72,7 +74,7 @@ R-studio file Day3 exer1:  \
 Answers: \
 R-studio file Day3 exer2:  \
 Answers: \
- 
+R-studio file Day3 slides: 
 
 **Day 4:** Loops and Statistics \
 PDF:  \
@@ -80,6 +82,7 @@ R-studio file Day4 exer1:  \
 Answers: \
 R-studio file Day4 exer2:  \
 Answers: \
+R-studio file Day4 slides: 
 
 **Day 5:** Recap
 Extra:  \
