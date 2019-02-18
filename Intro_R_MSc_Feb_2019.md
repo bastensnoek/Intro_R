@@ -53,11 +53,11 @@ Intro: https://drive.google.com/open?id=1fabM8DnI25En4kYYVIXwu0eXwMA1_b5i \
 PDF Structures and Objects: https://drive.google.com/open?id=13Lu_dftHX3bePDd00qmlAVVeVld9O67r \
 PDF Access, Select and Ordering: https://drive.google.com/open?id=1xG1LqrMZisb49f280ABornmjQv5LurYA \
 R-studio file Day1 exer1: https://drive.google.com/open?id=1mceQ-TtPnkcct--z5o6nk7PKCL5uekkY \
-Answers: https://drive.google.com/open?id=1zV81WDAz9mrLe1vYwgL3Q7EYpzMtW7pa \
+Answers: https://drive.google.com/open?id=182-WDbZ_o0d6YTjdjcdHd2ABS-HjrQjh \
 R-studio file Day1 exer2: https://drive.google.com/open?id=1r028MOwXIWx5Rp5vBahvKskT-XD10G69 \
-Answers: \
+Answers: https://drive.google.com/open?id=17wWE9REmzxN0EgcNcD_Pj9J2VgkpRj0D \
 R-studio file Day1 exer3: https://drive.google.com/open?id=1BF-9ltLwngIRj-OsEDbGED6SKvEEF6y4 \
-Answers: \
+Answers: https://drive.google.com/open?id=1D6559tn4Qz_GjwykU8TQtAW6nn1ocIrl \
 R-studio file Day1 slides: https://drive.google.com/open?id=1s0WX8LkZ90iPKltYKxJwDciyJoOu7G7G  
 
 **Day 2:** Access II and I/O \
@@ -70,28 +70,31 @@ R-studio file Day2 slides: https://drive.google.com/open?id=1etsL2ueizEYb1gtzSGA
 Simple IO file: https://drive.google.com/open?id=1dEzkFALuXf-lXwnpDaVKuq-MRjHDYyxL \
 duplications.txt: https://drive.google.com/open?id=1w2tdYz4dCog-d4H_TCID1xr8TqOMBCF3 \
 SGD-features file: https://drive.google.com/open?id=11nb9FESA93jWM-sVwbIdIVRAJgosfgoc \
-SGD-headers file: https://drive.google.com/open?id=1x3hpGadzJblpHPfb8c3LyI84h3PQptWL \
+SGD-headers file: https://drive.google.com/open?id=1x3hpGadzJblpHPfb8c3LyI84h3PQptWL 
 
 **Day 3:** Plotting, Itteration, Functions\
-PDF:  \
-R-studio file Day3 exer1:  \
+PDF Plotting: https://drive.google.com/open?id=1EbZQXng5NAthBO_G6HY1yiRwYFvzd_YD \
+PDF Iteration & Functions: https://drive.google.com/open?id=1ivilzaw4ZXqk1LLzcyW27L1GStvvB12X \
+R-studio file Day3 exer1: https://drive.google.com/open?id=19l6IOHbZY_4vrO_Kn61VtTvYZr_TZa-x \
 Answers: \
-R-studio file Day3 exer2:  \
+R-studio file Day3 exer2: https://drive.google.com/open?id=1XscbKSzJojBUuka-R6jXxWNne-j6gm-1 \
 Answers: \
-R-studio file Day3 slides: \
-M values file: \
-p values file: 
+R-studio file Day3 slides: https://drive.google.com/open?id=1FZq_HsTpmFzb47FQzuDI1csSNPB8vmMB \
+M values file: https://drive.google.com/open?id=1xL-vfTqyrX_btkKsL94Ey3DDhMGK1P9R \
+p values file: https://drive.google.com/open?id=18Q11zmS5YKFxejZL4igCuFR1t9EnMomz 
 
 **Day 4:** Loops and Statistics \
-PDF:  \
-R-studio file Day4 exer1:  \
+PDF on for loops: https://drive.google.com/open?id=1hLSRn8ExtoouhvQL4WPetEbXy45DxJvK \
+PDF Statistics: https://drive.google.com/open?id=1X3VYKVdrzE95MuP4VGCvwwBbxB7vrDQc \
+R-studio file Day4 exer1: https://drive.google.com/open?id=1o2CbZa1OoR-UrmuSHIQdzydnEeMQhoCg \
 Answers: \
-R-studio file Day4 exer2:  \
+R-studio file Day4 exer2: https://drive.google.com/open?id=1C9aIBOxcJ_ybphKXK7TGWOtu0Ss_7MPS  \
 Answers: \
-R-studio file Day4 slides: \
-TF target r-object:
+R-studio file Day4 slides: https://drive.google.com/open?id=1Q_4g9B2urVEoQcZNX0z2srVidPE9vKxh \
+TF target r-object: https://drive.google.com/open?id=1VhkvmIczuUQ057bQ1K6RMCtQ1kdYU2xU
 
 **Day 5:** Recap
+Datasets library: \
 Extra:  \
 
 
