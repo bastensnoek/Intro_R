@@ -61,16 +61,16 @@ Answers: \
 R-studio file Day1 slides: https://drive.google.com/open?id=1s0WX8LkZ90iPKltYKxJwDciyJoOu7G7G  
 
 **Day 2:** Access II and I/O \
-PDF:  \
-R-studio file Day2 exer1:  \
+PDF: https://drive.google.com/open?id=1luNYdgGBeDY-W85gLHLfrAW-WZOY48-q \
+R-studio file Day2 exer1: https://drive.google.com/open?id=1iaWYNM95sptWU75N0YMANJvj1-e07pxx \
 Answers: \
-R-studio file Day2 exer2:  \
+R-studio file Day2 exer2: https://drive.google.com/open?id=1oybzT6sIZSKLgpo_duXEA6a7WwlimPnf \
 Answers: \
-R-studio file Day2 slides: \
-Simple IO file: \
-duplications.txt: \
-SGD-features file: \
-SGD-headers file: \
+R-studio file Day2 slides: https://drive.google.com/open?id=1etsL2ueizEYb1gtzSGAK6yFSc39TxZw4 \
+Simple IO file: https://drive.google.com/open?id=1dEzkFALuXf-lXwnpDaVKuq-MRjHDYyxL \
+duplications.txt: https://drive.google.com/open?id=1w2tdYz4dCog-d4H_TCID1xr8TqOMBCF3 \
+SGD-features file: https://drive.google.com/open?id=11nb9FESA93jWM-sVwbIdIVRAJgosfgoc \
+SGD-headers file: https://drive.google.com/open?id=1x3hpGadzJblpHPfb8c3LyI84h3PQptWL \
 
 **Day 3:** Plotting, Itteration, Functions\
 PDF:  \
