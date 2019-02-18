@@ -93,7 +93,8 @@ Answers: \
 R-studio file Day4 slides: https://drive.google.com/open?id=1Q_4g9B2urVEoQcZNX0z2srVidPE9vKxh \
 TF target r-object: https://drive.google.com/open?id=1VhkvmIczuUQ057bQ1K6RMCtQ1kdYU2xU
 
-**Day 5:** Recap
+**Day 5:** Recap and extras \
+More practice with the datasets that come with R, incl some questions \
 Datasets library: https://drive.google.com/open?id=1aBx2IQKQyfAFjQSZeXMwSshFVhLbIyST \
 Extra:  \
 
