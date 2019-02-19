@@ -70,7 +70,8 @@ R-studio file Day2 slides: https://drive.google.com/open?id=1etsL2ueizEYb1gtzSGA
 Simple IO file: https://drive.google.com/open?id=1dEzkFALuXf-lXwnpDaVKuq-MRjHDYyxL \
 duplications.txt: https://drive.google.com/open?id=1w2tdYz4dCog-d4H_TCID1xr8TqOMBCF3 \
 SGD-features file: https://drive.google.com/open?id=11nb9FESA93jWM-sVwbIdIVRAJgosfgoc \
-SGD-headers file: https://drive.google.com/open?id=1x3hpGadzJblpHPfb8c3LyI84h3PQptWL 
+SGD-headers file: https://drive.google.com/open?id=1x3hpGadzJblpHPfb8c3LyI84h3PQptWL \
+Easier files to load:  http://www-eio.upc.edu/~pau/cms/rdata/datasets.html 
 
 **Day 3:** Plotting, Itteration, Functions\
 PDF Plotting: https://drive.google.com/open?id=1EbZQXng5NAthBO_G6HY1yiRwYFvzd_YD \
