@@ -98,7 +98,8 @@ TF target r-object: https://drive.google.com/open?id=1VhkvmIczuUQ057bQ1K6RMCtQ1k
 More practice with the datasets that come with R, incl some questions \
 These will be expanded with questions on the movies datasets from the website suggested at day 2 --> Easier files to load: \
 Datasets library: https://drive.google.com/open?id=1aBx2IQKQyfAFjQSZeXMwSshFVhLbIyST \
-Extra:  \
+Extra opening files and selecting data: https://drive.google.com/open?id=1o4N-lADSvfvrwM8t52_qawz4PXWLDA1Q  \
+More to come: Movie questions!
 
 
 
