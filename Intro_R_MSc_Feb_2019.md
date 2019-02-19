@@ -63,9 +63,9 @@ R-studio file Day1 slides: https://drive.google.com/open?id=1s0WX8LkZ90iPKltYKxJ
 **Day 2:** Access II and I/O \
 PDF: https://drive.google.com/open?id=1luNYdgGBeDY-W85gLHLfrAW-WZOY48-q \
 R-studio file Day2 exer1: https://drive.google.com/open?id=1iaWYNM95sptWU75N0YMANJvj1-e07pxx \
-Answers: \
+Answers: https://drive.google.com/open?id=1M8YsBEo4ZcGK5E-FTvNSCvXfVZ68CW2L \
 R-studio file Day2 exer2: https://drive.google.com/open?id=1oybzT6sIZSKLgpo_duXEA6a7WwlimPnf \
-Answers: \
+Answers: https://drive.google.com/open?id=1LkeoAdRV3QTMzxCsYfIxuY9X-qt7pnFb \
 R-studio file Day2 slides: https://drive.google.com/open?id=1etsL2ueizEYb1gtzSGAK6yFSc39TxZw4 \
 Simple IO file: https://drive.google.com/open?id=1dEzkFALuXf-lXwnpDaVKuq-MRjHDYyxL \
 duplications.txt: https://drive.google.com/open?id=1w2tdYz4dCog-d4H_TCID1xr8TqOMBCF3 \
