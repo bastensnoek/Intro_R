@@ -77,9 +77,9 @@ Easier files to load:  http://www-eio.upc.edu/~pau/cms/rdata/datasets.html
 PDF Plotting: https://drive.google.com/open?id=1EbZQXng5NAthBO_G6HY1yiRwYFvzd_YD \
 PDF Iteration & Functions: https://drive.google.com/open?id=1ivilzaw4ZXqk1LLzcyW27L1GStvvB12X \
 R-studio file Day3 exer1: https://drive.google.com/open?id=19l6IOHbZY_4vrO_Kn61VtTvYZr_TZa-x \
-Answers: \
+Answers: https://drive.google.com/open?id=18HRZta9ltUXFezibh_Ei6Yw3xJi-mQdQ \
 R-studio file Day3 exer2: https://drive.google.com/open?id=1XscbKSzJojBUuka-R6jXxWNne-j6gm-1 \
-Answers: \
+Answers: https://drive.google.com/open?id=1tliMb9ZgHFAaHOZ3SkcXGDiveECGn6W0 \
 R-studio file Day3 slides: https://drive.google.com/open?id=1FZq_HsTpmFzb47FQzuDI1csSNPB8vmMB \
 M values file: https://drive.google.com/open?id=1xL-vfTqyrX_btkKsL94Ey3DDhMGK1P9R \
 p values file: https://drive.google.com/open?id=18Q11zmS5YKFxejZL4igCuFR1t9EnMomz 
