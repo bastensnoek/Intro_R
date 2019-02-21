@@ -88,9 +88,9 @@ p values file: https://drive.google.com/open?id=18Q11zmS5YKFxejZL4igCuFR1t9EnMom
 PDF on for loops: https://drive.google.com/open?id=1hLSRn8ExtoouhvQL4WPetEbXy45DxJvK \
 PDF Statistics: https://drive.google.com/open?id=1X3VYKVdrzE95MuP4VGCvwwBbxB7vrDQc \
 R-studio file Day4 exer1: https://drive.google.com/open?id=1o2CbZa1OoR-UrmuSHIQdzydnEeMQhoCg \
-Answers: \
+Answers: https://drive.google.com/open?id=1aZo72lfSeuEgQvN_ScLruW83qykGBn6B \
 R-studio file Day4 exer2: https://drive.google.com/open?id=1C9aIBOxcJ_ybphKXK7TGWOtu0Ss_7MPS  \
-Answers: \
+Answers: https://drive.google.com/open?id=1i6_zHRGPFdgyCnrc-jHNVCb17vYx1YBL \
 R-studio file Day4 slides: https://drive.google.com/open?id=1Q_4g9B2urVEoQcZNX0z2srVidPE9vKxh \
 TF target r-object: https://drive.google.com/open?id=1VhkvmIczuUQ057bQ1K6RMCtQ1kdYU2xU
 
