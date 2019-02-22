@@ -16,8 +16,10 @@ https://www.rstudio.com/products/rstudio/download/
 # Assignment files 
 
 **Assignment R-studio file:** available Friday at 12:30 \
+.R file: https://drive.google.com/open?id=1J_ggvy8bPAYHt-mwfxUxkSJPjamf5quP \
 **Additional assignment files:** \
-available Friday at 12:30
+RNA file: https://drive.google.com/open?id=1JpaicLXWr9Y_5OiSOW4QJDREcQMufy0s \
+Protein file: https://drive.google.com/open?id=1AuKfTdsbrkSiF8Oyr9qqlzhuwx-vwYe2 \
 
 --------------------------------------------------------------------------------------
 
