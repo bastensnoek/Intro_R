@@ -5,9 +5,9 @@
 Here you can find info and links needed for the course
 **This is a R-studio course**
 
-**We encournage to install R-studio on your own laptop.** \
+**We encourage you to install R-studio on your own laptop.** \
 
-**Installing rstudio locally**\
+**Installing R-studio locally**\
 Get the free desktop version at:
 https://www.rstudio.com/products/rstudio/download/
 
