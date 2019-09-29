@@ -25,7 +25,7 @@ https://www.rstudio.com/products/rstudio/download/
 
 # R information
 
-**Cheatsheet R: \
+**Cheatsheet R:** https://drive.google.com/open?id=13k2xl1X3l9B0fopjZZbe0Y0kibcIpdxn \
 
 **R documentation:** https://cran.r-project.org/ \
 Also the help in R-studio! \
