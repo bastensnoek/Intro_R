@@ -40,12 +40,12 @@ Also the help in R-studio! \
 | 2   | Tu 08/10 |  9:30 - 15:00  | Str. 2.112 | Access II and I/O                |
 | 3   | We 09/10 |  9:30 - 15:00  | Str. 2.112 | Plotting and Statistics          |
 | 4   | Th 10/10 |  9:30 - 15:00  | Str. 2.112 | Iteration and Loops              |
-| 5   | Fr 11/10 |  9:00 - 17:00  | Str. 2.112 | Self-study			                  |
+| 5   | Fr 11/10 |  9:00 - 17:00  | - | Self-study			                  |
 |-----|----------|----------------|------------|----------------------------------|
 | 6   | Mo 14/10 |  9:30 - 15:00  | Str. 2.112 | Functions  			                |
-| 7   | Tu 15/10 |  9:00 - 17:00  | Str. 2.112 | Self-study		                    |
+| 7   | Tu 15/10 |  9:00 - 17:00  | - | Self-study		                    |
 | 8   | We 16/10 |  9:30 - 15:00  | Str. 2.112 | Recap and Questions		          |
-| 9   | Th 17/10 |  9:00 - 17:00  | Str. 2.112 | Self-study		                    |
+| 9   | Th 17/10 |  9:00 - 17:00  | - | Self-study		                    |
 | 10  | Fr 18/10 |  11:30 - 16:00 | Str. 2.112 | **Final Assignment** 		        |
 
 
