@@ -57,21 +57,21 @@ https://www.ncbi.nlm.nih.gov/pubmed/24766815
 ## Practicals and presentations ###
 
 **Day 1:** Data structures and Access I\
-Intro:  \
-PDF Structures and Objects: \
-PDF Access, Select and Ordering:  \
+PDF Intro: https://drive.google.com/open?id=1ajG7RzFZIfB6db71HwlGuk1Sjfx1N790 \
+PDF Structures and Objects: https://drive.google.com/open?id=1YirjuXbF8W4IBH9P4WXQu6Eh-7hspxbW \
+PDF Access, Select and Ordering: https://drive.google.com/open?id=14HPvnjvHVziUy--FzZgXtkVPBwKrMo0Z \
 R-studio file Day1 slides:  
-
-R-studio file Day1a:  \
+https://drive.google.com/open?id=1VOTRh33aevLqQcqGC-B7ARDWO6C9lktX \
+R-studio file Day1a: https://drive.google.com/open?id=1aJj7_YhPD7JKoO_wyJ2DqmfmTnuDb_Rg  \
 Answers:  \
-R-studio file Day1b: \
+R-studio file Day1b: https://drive.google.com/open?id=16HerPaYtj9plca-9B0k4TZvA1VCQvFLb \
 Answers:  \
-R-studio file Day1c: \
+R-studio file Day1c: https://drive.google.com/open?id=1x-F8lRJ_7ls5ZiEWz2Yab8uLP92zuk1m \
 Answers: 
  
 
 **Day 2:** Access II and I/O \
-PDF:  \
+PDF: https://drive.google.com/open?id=1E4Hfa5VXDRFbJb2sQdh3PomwOZIiYY9M \
 R-studio file Day2 slides:  
 
 R-studio file Day2a: \
@@ -87,8 +87,8 @@ SGD-headers file:
 Easier files to load:  http://www-eio.upc.edu/~pau/cms/rdata/datasets.html 
 
 **Day 3:** Plotting, and Statistics \
-PDF Plotting: \
-PDF Statistics: \
+PDF Plotting: https://drive.google.com/open?id=1pAA-GsJlokx50I-2QnCWfJR1we2E8hzO \
+PDF Statistics: https://drive.google.com/open?id=1KplnyscejwwQCwR-CQmlgL3-x_xvg1Ku \
 R-studio file Day3 slides:  
 
 R-studio file Day3a: \
@@ -100,8 +100,8 @@ M values file: \
 p values file: 
 
 **Day 4:** Iteration and Loops \
-PDF Iterations: \
-PDF for-loops: \
+PDF Iterations: https://drive.google.com/open?id=1r87JJD85NQqPdIAAZnxJqf6FaLp8_rqd \
+PDF for-loops: https://drive.google.com/open?id=1-YFjHcPHrEf6l8gcn-djeHnN4puha-Hc \
 R-studio file Day4 slides:
 
 R-studio file Day4a: \
@@ -113,7 +113,7 @@ TF target r-object:
 
 
 **Day 6:** Functions \
-PDF Functions: \
+PDF Functions: https://drive.google.com/open?id=1_XYlpSctcWwajPeg-IKLGtfMrFR57Zzb \
 R-studio file Day6 slides:
 
 R-studio file Day6: \
@@ -123,6 +123,7 @@ Answers: \
 **Extras:** \
 More practice with the datasets that come with R, incl some questions \
 Movie/IMDB questions: 
+C. elegans heat-stress:
 
 
 ### END
