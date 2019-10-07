@@ -63,11 +63,11 @@ PDF Access, Select and Ordering: https://drive.google.com/open?id=14HPvnjvHVziUy
 R-studio file Day1 slides:  
 https://drive.google.com/open?id=1VOTRh33aevLqQcqGC-B7ARDWO6C9lktX \
 R-studio file Day1a: https://drive.google.com/open?id=1aJj7_YhPD7JKoO_wyJ2DqmfmTnuDb_Rg  \
-Answers:  \
+Answers: https://drive.google.com/open?id=12MeudDIBfJHcz6vMKUHj7Nl4665qe6dn \
 R-studio file Day1b: https://drive.google.com/open?id=16HerPaYtj9plca-9B0k4TZvA1VCQvFLb \
-Answers:  \
+Answers: https://drive.google.com/open?id=1ZZDVPPIAc-PMB58bbD1Id9rOxxWLgJ_p \
 R-studio file Day1c: https://drive.google.com/open?id=1x-F8lRJ_7ls5ZiEWz2Yab8uLP92zuk1m \
-Answers: 
+Answers: https://drive.google.com/open?id=1sXJqiVG-YGEgd3T8XaKuOHiEYpTV36RS
  
 
 **Day 2:** Access II and I/O \
@@ -89,40 +89,41 @@ Easier files to load:  http://www-eio.upc.edu/~pau/cms/rdata/datasets.html
 **Day 3:** Plotting, and Statistics \
 PDF Plotting: https://drive.google.com/open?id=1pAA-GsJlokx50I-2QnCWfJR1we2E8hzO \
 PDF Statistics: https://drive.google.com/open?id=1KplnyscejwwQCwR-CQmlgL3-x_xvg1Ku \
-R-studio file Day3 slides:  
+R-studio file Day3 slides: https://drive.google.com/open?id=1uMciq3macizH1wKc4E9mqHxAl1bPOwDY 
 
-R-studio file Day3a: \
+R-studio file Day3a: https://drive.google.com/open?id=1aT0rVHGnq-Bmyvbm50YHVaOr2l0sTUI5 \
 Answers: \
-R-studio file Day3b: \
+R-studio file Day3b: https://drive.google.com/open?id=1qI6Gm7tU-agzTvqpcTDHnI6ewfL3eTzq \
 Answers: \
 
-M values file: \
-p values file: 
+M values file: https://drive.google.com/open?id=19MWbI1FiFOxfyvyULuvOYOOWVrAOP1RD \
+p values file: https://drive.google.com/open?id=172x-f09FGcPY56yTqRvA4rGNv91eBQaT
 
 **Day 4:** Iteration and Loops \
 PDF Iterations: https://drive.google.com/open?id=1r87JJD85NQqPdIAAZnxJqf6FaLp8_rqd \
 PDF for-loops: https://drive.google.com/open?id=1-YFjHcPHrEf6l8gcn-djeHnN4puha-Hc \
-R-studio file Day4 slides:
+R-studio file Day4 slides: https://drive.google.com/open?id=1WLrJpZ7VtPcptaoeZZtMyl6fdV-89Y9e
 
-R-studio file Day4a: \
+R-studio file Day4a: https://drive.google.com/open?id=1_Rs_HeDsi_kqEX1JneaidluearsjLcJG \
 Answers: \
-R-studio file Day4b: \
+R-studio file Day4b: https://drive.google.com/open?id=1ZuRiiA9Mp2tsY5sGOSXxJOZhdJPCu0Fm \
 Answers: \
 
-TF target r-object: 
+TF target r-object: https://drive.google.com/open?id=1HcsCEse0k62J9U1M2AIGagfNTHEug7nj
 
 
 **Day 6:** Functions \
 PDF Functions: https://drive.google.com/open?id=1_XYlpSctcWwajPeg-IKLGtfMrFR57Zzb \
-R-studio file Day6 slides:
+R-studio file Day6 slides: https://drive.google.com/open?id=1qvddWXr2k9dmg2HvlAwGxdPzN3fmf4f-
 
-R-studio file Day6: \
+R-studio file Day6: https://drive.google.com/open?id=1FMtJ2nPMpxDPKnHMbPgh8QoeR2bkqIYL \
 Answers: \
 
 
 **Extras:** \
 More practice with the datasets that come with R, incl some questions \
-Movie/IMDB questions: 
+Movie/IMDB questions: https://drive.google.com/open?id=1feI8fS1qtP3qFq8A0k8Bc7cKWIPNaZ2b \
+Movie dataset: https://drive.google.com/open?id=11onGu-NSn61NIyNxCqlK57VsdFlTX8jH \
 C. elegans heat-stress:
 
 
