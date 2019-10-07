@@ -72,17 +72,17 @@ Answers:
 
 **Day 2:** Access II and I/O \
 PDF: https://drive.google.com/open?id=1E4Hfa5VXDRFbJb2sQdh3PomwOZIiYY9M \
-R-studio file Day2 slides:  
+R-studio file Day2 slides:  https://drive.google.com/open?id=1UoT9iOu4fCFZ78-qojwIDanKsmKrRfnc
 
-R-studio file Day2a: \
+R-studio file Day2a: https://drive.google.com/open?id=1rkzEbjsd9ic4BCUEi4XDiR6gvx7WKCoJ \
 Answers:  \
-R-studio file Day2b:  \
+R-studio file Day2b: https://drive.google.com/open?id=1NiE-uY5m75cGWnUmJe2RLqlReo8B4DLY  \
 Answers:  
 
-Simple IO file:  \
-duplications.txt:  \
-SGD-features file: \
-SGD-headers file:  
+Simple IO file: https://drive.google.com/open?id=1vWRjk9K4T6EdtBkhir3UhKouNP17Ce8L \
+duplications.txt: https://drive.google.com/open?id=1o1ruY2MU1PC6u5agCQoslEJKmFrAjyoV \
+SGD-features file: https://drive.google.com/open?id=1aOKcWVu2mBUYcqZVR3TesvIIwkzLJLrP \
+SGD-headers file: https://drive.google.com/open?id=15jzysfK18thUs3R-rZ5r7BpsfO2vfon- 
 
 Easier files to load:  http://www-eio.upc.edu/~pau/cms/rdata/datasets.html 
 
