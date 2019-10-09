@@ -92,9 +92,9 @@ PDF Statistics: https://drive.google.com/open?id=1KplnyscejwwQCwR-CQmlgL3-x_xvg1
 R-studio file Day3 slides: https://drive.google.com/open?id=1uMciq3macizH1wKc4E9mqHxAl1bPOwDY 
 
 R-studio file Day3a: https://drive.google.com/open?id=1aT0rVHGnq-Bmyvbm50YHVaOr2l0sTUI5 \
-Answers: \
+Answers: https://drive.google.com/open?id=1V1nlYrFVrXiEQ8oyXFu7WiSAF6XhNoue \
 R-studio file Day3b: https://drive.google.com/open?id=1qI6Gm7tU-agzTvqpcTDHnI6ewfL3eTzq \
-Answers: \
+Answers: https://drive.google.com/open?id=1MGP62zR4pZPfUUXFSoUN7TI5yY3-Zbiz \
 
 M values file: https://drive.google.com/open?id=19MWbI1FiFOxfyvyULuvOYOOWVrAOP1RD \
 p values file: https://drive.google.com/open?id=172x-f09FGcPY56yTqRvA4rGNv91eBQaT
