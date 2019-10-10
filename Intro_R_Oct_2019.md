@@ -105,9 +105,9 @@ PDF for-loops: https://drive.google.com/open?id=1-YFjHcPHrEf6l8gcn-djeHnN4puha-H
 R-studio file Day4 slides: https://drive.google.com/open?id=1WLrJpZ7VtPcptaoeZZtMyl6fdV-89Y9e
 
 R-studio file Day4a: https://drive.google.com/open?id=1_Rs_HeDsi_kqEX1JneaidluearsjLcJG \
-Answers: \
+Answers: https://drive.google.com/open?id=1cNuZONg9ulZ_5kABoHuopvvE1NZbACPJ \
 R-studio file Day4b: https://drive.google.com/open?id=1rUaxBC3XYWnqTGCEYtYTiaXUh2tG8Lq- \
-Answers: \
+Answers: https://drive.google.com/open?id=19Z2sjxgqg3g6cMFYV9LEVjeWwV3yWx41 \
 
 TF target r-object: https://drive.google.com/open?id=1HcsCEse0k62J9U1M2AIGagfNTHEug7nj \
 Yeast GO terms: https://drive.google.com/open?id=1FXywBXeDJ5mPB58OhbvYAKV66JoFPRDL \
