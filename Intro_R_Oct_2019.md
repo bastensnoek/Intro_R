@@ -119,7 +119,7 @@ PDF Functions: https://drive.google.com/open?id=1_XYlpSctcWwajPeg-IKLGtfMrFR57Zz
 R-studio file Day6 slides: https://drive.google.com/open?id=1qvddWXr2k9dmg2HvlAwGxdPzN3fmf4f-
 
 R-studio file Day6: https://drive.google.com/open?id=1FMtJ2nPMpxDPKnHMbPgh8QoeR2bkqIYL \
-Answers: \
+Answers: https://drive.google.com/open?id=1Guvupf8JGbxE1pHcEiURdfczSOKWRW9I \
 
 
 **Extras:** \
