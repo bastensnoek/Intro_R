@@ -24,7 +24,7 @@ https://www.rstudio.com/products/rstudio/download/
 
 # R information
 
-**Cheatsheet R:** \
+**Cheatsheet R:** https://drive.google.com/open?id=13k2xl1X3l9B0fopjZZbe0Y0kibcIpdxn \
 
 **R documentation:** https://cran.r-project.org/ \
 Also the help in R-studio! \
@@ -39,13 +39,13 @@ Also the help in R-studio! \
 | 2   | Tu 03/03 |  9:30 - 15:00  | Str. 2.112 | Access II and I/O                |
 | 3   | We 04/03 |  9:30 - 15:00  | Str. 2.112 | Plotting and Statistics          |
 | 4   | Th 05/03 |  9:30 - 15:00  | Str. 2.112 | Iteration and Loops              |
-| 5   | Fr 06/03 |  9:00 - 17:00  | -          | Self-study			                  |
+| 5   | Fr 06/03 |  9:00 - 17:00  | -          | Self-study			                    |
 |-----|----------|----------------|------------|----------------------------------|
-| 6   | Mo 09/03 |  9:30 - 15:00  | Str. 2.112 | Functions  			                |
-| 7   | Tu 10/03 |  9:00 - 17:00  | -          | Self-study		                    |
-| 8   | We 11/03 |  9:30 - 15:00  | Str. 2.112 | Recap and Questions		          |
-| 9   | Th 12/03 |  9:00 - 17:00  | -          | Self-study		                    |
-| 10  | Fr 13/03 |  11:30 - 16:00 | Str. 2.112 | **Final Assignment** 		        |
+| 6   | Mo 09/03 |  9:30 - 15:00  | Str. 2.112 | Functions  			                   |
+| 7   | Tu 10/03 |  9:00 - 17:00  | -          | Self-study		                     |
+| 8   | We 11/03 |  9:30 - 15:00  | Str. 2.112 | Recap and Questions		            |
+| 9   | Th 12/03 |  9:00 - 17:00  | -          | Self-study		                     |
+| 10  | Fr 13/03 |  11:30 - 16:00 | Str. 2.112 | **Final Assignment** 		          |
 
 
 *Lunch breaks are between 12:30 and 13:00. 
@@ -56,15 +56,15 @@ https://www.ncbi.nlm.nih.gov/pubmed/24766815
 ## Practicals and presentations ###
 
 **Day 1:** Data structures and Access I\
-PDF Intro: \
-PDF Structures and Objects: \
-PDF Access, Select and Ordering: \
-R-studio file Day1 slides:  \
-R-studio file Day1a:  \
+PDF Intro: https://drive.google.com/open?id=1m6pMUx0GOf-mJ0evwiBQFJr1Hn4j0A5h \
+PDF Structures and Objects: https://drive.google.com/open?id=1KnCgppF1d2ocEIVGa0vE6g3IrzxlWkoh \
+PDF Access, Select and Ordering: https://drive.google.com/open?id=1AM4K4Nxc586UnQ69rrALrIidsPd8H9Kq \
+R-studio file Day1 slides: https://drive.google.com/open?id=15p4L17FR8Njz1LRf0FGYn3O1xQztjmwB \
+R-studio file Day1a: https://drive.google.com/open?id=12Q-3CuM7opvVOW1678xXnBjETd6kD80F \
 Answers: \
-R-studio file Day1b: \
+R-studio file Day1b: https://drive.google.com/open?id=1x-yD5DUjHrNzAPoQbAVYGIU8pOUqaIfm \
 Answers: \
-R-studio file Day1c: \
+R-studio file Day1c: https://drive.google.com/open?id=1SIPLKm2H2OLi55xjJueHFUSieNRIVZGq \
 Answers: 
  
 
@@ -123,8 +123,8 @@ Answers: \
 
 **Extras:** \
 More practice with the datasets that come with R, incl some questions \
-Movie/IMDB questions: \
-Movie dataset: \
+Movie/IMDB questions: https://drive.google.com/open?id=1A4rFkTTiYyhOMOs3QXdnTUBROZUrc768 \
+Movie dataset: https://drive.google.com/open?id=11onGu-NSn61NIyNxCqlK57VsdFlTX8jH \
 
 C. elegans heat-stress: \
 Jovic_etal: \
