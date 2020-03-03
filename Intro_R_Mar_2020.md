@@ -73,9 +73,9 @@ PDF: https://drive.google.com/open?id=1L9W3WvCLyV0P4I3Ge5Q-CbhBKk2XXux0 \
 R-studio file Day2 slides: https://drive.google.com/open?id=1Mu5gPwpnGZ5pHSkn6iw9VmTsGqj-eSlP 
 
 R-studio file Day2a: https://drive.google.com/open?id=1wrRlPzFU8JvMyVbPD3OSxZ74Gct7qDpN \
-Answers: \
+Answers: https://drive.google.com/open?id=1c9o7bY99oPCbgnpcwsAwDzXqiOF5wpCu \
 R-studio file Day2b: https://drive.google.com/open?id=1fmhQ5KihoQy9fa1QJmuVsZrHJ5i6s_cB \
-Answers: 
+Answers: https://drive.google.com/open?id=1D2Pxh_m4PkNskQT0R4PC6sb7EzbwfuCe
 
 Simple IO file: https://drive.google.com/file/d/1XGWi_vcPnO80ARlAA6Ex9uFZ3cEcE6tI/view?usp=sharing \
 duplications.txt: https://drive.google.com/open?id=1_vwJT8WmvpUVcIjyXe47DMQPwrp6YI-0 \
