@@ -103,15 +103,15 @@ PDF for-loops: https://drive.google.com/open?id=1w1NC6MKKNpM5HL-W0MM5SchpyQuqvhW
 R-studio file Day4 slides: https://drive.google.com/open?id=1jpdiAH7Kb3hsY2-1v7cOL01q8e90eoh0
 
 R-studio file Day4a: https://drive.google.com/open?id=1NtKSBIkIPqH5_VX9xxDq29lSgtC0gAdT \
-Answers: \
+Answers: https://drive.google.com/open?id=1N5leVtxEytBMMQL9--w-tvDZvlfR5Ze8 \
 R-studio file Day4b: https://drive.google.com/open?id=1sDvL3psL0V2CZaQDT5qVLzYf9DIQqsvB \
-Answers: \
+Answers: https://drive.google.com/open?id=1WCNlNfq5l-xzbhI-6L4RM3o-c28OiPYJ \
 
 TF target r-object: https://drive.google.com/file/d/1kdlj9yG1wZnf0Qd-NIGcndp4Gf15tIn3/view?usp=sharing \
 Yeast GO terms: https://drive.google.com/file/d/1Rv-b-iKs5wFCUI4re2NzQnSxMOQi4OR7/view?usp=sharing \
 
 Extended day4 heatmaps: https://drive.google.com/open?id=1GC1Y8MBDMehorEEAsiNSj1ObGcu_UnvJ \
-Answers: 
+Answers: https://drive.google.com/open?id=1f59BHbb7llo3xcKLd3_hkSbMqzI52RsK 
 
 **Day 6:** Functions \
 PDF Functions: https://drive.google.com/open?id=1MS_Cqx3WKWTENxuZr0RyDNqUHGKnPOoj \
@@ -126,9 +126,9 @@ More practice with the datasets that come with R, incl some questions \
 Movie/IMDB questions: https://drive.google.com/open?id=1A4rFkTTiYyhOMOs3QXdnTUBROZUrc768 \
 Movie dataset: https://drive.google.com/open?id=11onGu-NSn61NIyNxCqlK57VsdFlTX8jH \
 
-C. elegans heat-stress: \
-Jovic_etal: \
-Gene_info: \
+C. elegans heat-stress: https://drive.google.com/open?id=1bURPwkSc-9eWZEPJ9f_fMHdkaogdjo8z \
+Jovic_etal: https://drive.google.com/open?id=19e_WYS4zoxLv8G_N3r9jF-QAIRAKr8zN \
+Gene_info: https://drive.google.com/open?id=1fhIlCnHyVYvhGZBZMc0UfnkXCxLl41A9 \
 Answers: 
 
 
