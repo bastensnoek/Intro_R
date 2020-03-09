@@ -118,7 +118,7 @@ PDF Functions: https://drive.google.com/open?id=1MS_Cqx3WKWTENxuZr0RyDNqUHGKnPOo
 R-studio file Day6 slides: https://drive.google.com/open?id=1KDPcxeTQ8jBpw01AiYNk1yJfxyNOpxPl
 
 R-studio file Day6: https://drive.google.com/open?id=1U1Ydtv5kgAa7_DaOf-8_gdD5p_RXoRZt \
-Answers: \
+Answers: https://drive.google.com/open?id=1LU0h5uzjFvJZ2eVn4HBHPBeZTxbRUP2M \
 
 
 **Extras:** \
@@ -129,7 +129,7 @@ Movie dataset: https://drive.google.com/open?id=11onGu-NSn61NIyNxCqlK57VsdFlTX8j
 C. elegans heat-stress: https://drive.google.com/open?id=1bURPwkSc-9eWZEPJ9f_fMHdkaogdjo8z \
 Jovic_etal: https://drive.google.com/open?id=19e_WYS4zoxLv8G_N3r9jF-QAIRAKr8zN \
 Gene_info: https://drive.google.com/open?id=1fhIlCnHyVYvhGZBZMc0UfnkXCxLl41A9 \
-Answers: 
+Answers: https://drive.google.com/open?id=1OjP_1Uw7p89k5aKFkTAk_ibJ9S6UyqrU
 
 
 ### END
